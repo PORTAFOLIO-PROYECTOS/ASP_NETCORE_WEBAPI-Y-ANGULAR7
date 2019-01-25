@@ -3,3 +3,8 @@
 |   +--- payment-details
 |   |  |-- payment-details.component.ts|.html|.css
 |   |  +--- payment-detail
+
+
+
+
+1- ng g c payment-details --spec=false --s
