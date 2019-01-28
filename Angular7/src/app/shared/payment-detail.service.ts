@@ -7,5 +7,5 @@ import { PaymentDetail } from './payment-detail.model';
 export class PaymentDetailService {
   formData:PaymentDetail
 
-  constructor() { }
+  constructor() { console.log("PaymentDetail", PaymentDetail);}
 }
